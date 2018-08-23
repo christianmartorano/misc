@@ -1,0 +1,38 @@
+VIM -> VIM IMPROVEMENT TIPS
+
+Para incrementar o valor em uma variável numérica:
+  -Pressionar CTRL+a
+
+Para decrementar o valor em uma variável numérica:
+  -Pressionar CTRL+x
+
+Para apagar o carácter:
+  -Pressionar x
+
+Para apagar o uma palavra:
+  -Pressionar d+w
+
+Para recortar uma linha:
+  -Pressionar d+d
+
+Para copiar uma linha:
+  -Pressionar y+y
+
+Para colar o conteúdo recortado ou colado:
+  -Pressionar p
+
+Para apagar o conteúdo de uma linha da posição do cursor até o final:
+  -Pressionar d+$
+  
+Para voltar a última modificação:
+  -Pressionar u
+
+Para recortar/excluir mais de 1 linha:
+  -Pressionar d+(Qtd. de linhas)+d
+
+Para posisionar o cursor no final da linha e entrar no modo de inserção:
+  -Pressionar SHIFT+a
+
+Para substituir um carácter:
+  -Pressionar r+(Valor)
+  
